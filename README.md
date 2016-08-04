@@ -1,4 +1,4 @@
-# one-minute-away-api 
+# one-minute-away-api  
 [![Build Status](https://travis-ci.org/one-minute-away/one-minute-away-api.svg?branch=dev)](https://travis-ci.org/one-minute-away/one-minute-away-api)
 
 An api to get realtime sms alerts for the bus you want to catch. Setup a route, create an alert for that route and then receive a text when your bus is x mins away
